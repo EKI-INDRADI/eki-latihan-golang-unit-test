@@ -64,6 +64,7 @@ SPESIFIC FUNCTION : "cd eki-latihan-golang-unit-test\_3_72_testing\helper" go te
 
 
 
- go test -v -run _3_72_testing 
+jalankan secara keseluruhan (1 package termasuk seluruh function):
+"cd eki-latihan-golang-unit-test\_3_72_testing" go test ./...
 
 ---------------------------
