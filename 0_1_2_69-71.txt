@@ -1,0 +1,20 @@
+di golang sudah ada unitestnya (tidak perlu install lagi seperti bahasa pemgoraman lain)
+
+
+tujuan unit test untuk test controller n test service tanpa koenksi ke database
+
+
+https://pkg.go.dev/testing
+
+
+T/M/B = Stuct  di golang / fitur yang sudah ada pada golang
+
+testing.T , digunakan untuk unite test di golang
+testing.M , untuk Mengatur life cycle testing(alur eksekusi testing)
+testing.B , untuk benchmark
+
+
+https://dasarpemrogramangolang.novalagung.com/A-setup-go-project-dengan-go-modules.html
+
+cd _3_72_testing
+go mod init _3_72_testing
